@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+arogya_store.db
+.qai_hub/
+*.mp4
